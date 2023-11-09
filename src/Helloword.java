@@ -21,7 +21,7 @@ public class Helloword extends JFrame {
     private JButton borrar_Button;
     private JButton modificar_Button;
     private JTable table;
-    v
+
     private DefaultTableModel model;
 
     private int idCounter = 1; // Establecer el valor inicial del contador de ID a 1
